@@ -1,11 +1,2 @@
----
-country: Belgium
-document_name: "Casino(A+) and Sports(F1+) Common Components"
-source_file: "Casino(A+) and Sports(F1+) Common Components.docx"
-extracted_date: 2026-04-30
-jurisdiction: Belgium
----
+> **Source:** [Casino(A+) and Sports(F1+) Common Components.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Belgium/3. Projects/Casino(A+) and Sports(F1+) Common Components.docx)
 
-# Casino(A+) and Sports(F1+) Common Components
-
-DOCX extraction error: No binary data — DOCX extraction unavailable
