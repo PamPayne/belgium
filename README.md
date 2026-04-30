@@ -4,11 +4,7 @@ Markdown versions of regulatory documents for Belgium, sourced from the DBNSA Re
 
 ## Documents
 
-| Document | Source File |
-|---|---|
-| [Casino A And Sports F1 Common Components](Casino_A___and_Sports_F1___Common_Components.md) | Casino(A+) and Sports(F1+) Common Components.docx |
-| [Casino Registration And Login Data Flow A](Casino_Registration_and_Login_Data_Flow__A__.md) | Casino Registration and Login Data Flow (A+).docx |
-| [Sportsbook Registration And Login Data Flow F1](Sportsbook_Registration_and_Login_Data_Flow__F1__.md) | Sportsbook Registration and Login Data Flow (F1+).docx |
+*Document index will be updated once files are processed.*
 
 ## Source
 
